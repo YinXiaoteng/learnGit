@@ -14,6 +14,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        print("注册融云SDK")
+        print("注册微信SDK")
+        print("注册友盟SDK")
+        print("注册极光SDK")
         return true
     }
 

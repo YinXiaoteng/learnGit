@@ -13,6 +13,7 @@
 		803156C02A8C545400B05A4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803156BE2A8C545400B05A4A /* Main.storyboard */; };
 		803156C22A8C545600B05A4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 803156C12A8C545600B05A4A /* Assets.xcassets */; };
 		803156C52A8C545600B05A4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 803156C32A8C545600B05A4A /* LaunchScreen.storyboard */; };
+		803156CD2A8C5E6800B05A4A /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803156CC2A8C5E6700B05A4A /* Human.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		803156C12A8C545600B05A4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		803156C42A8C545600B05A4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		803156C62A8C545600B05A4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		803156CC2A8C5E6700B05A4A /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				803156B82A8C545400B05A4A /* AppDelegate.swift */,
 				803156BA2A8C545400B05A4A /* SceneDelegate.swift */,
 				803156BC2A8C545400B05A4A /* ViewController.swift */,
+				803156CC2A8C5E6700B05A4A /* Human.swift */,
 				803156BE2A8C545400B05A4A /* Main.storyboard */,
 				803156C12A8C545600B05A4A /* Assets.xcassets */,
 				803156C32A8C545600B05A4A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				803156BD2A8C545400B05A4A /* ViewController.swift in Sources */,
 				803156B92A8C545400B05A4A /* AppDelegate.swift in Sources */,
 				803156BB2A8C545400B05A4A /* SceneDelegate.swift in Sources */,
+				803156CD2A8C5E6800B05A4A /* Human.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
