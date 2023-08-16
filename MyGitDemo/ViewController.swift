@@ -13,7 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    func tieMyShoes()  {
+        print("穿鞋眼")
+        print("交叉")
+        print("捆绑")
+    }
 
 }
 
